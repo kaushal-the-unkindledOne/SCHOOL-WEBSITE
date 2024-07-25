@@ -1,0 +1,23 @@
+.footer {
+  background-color: #003f73; 
+  color: #ffffff; 
+  text-align: center;
+  padding: 1rem 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.2); 
+}
+
+.footer p {
+  margin: 0; 
+  font-size: 0.9rem; 
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .footer p {
+    font-size: 0.8rem; 
+  }
+}
