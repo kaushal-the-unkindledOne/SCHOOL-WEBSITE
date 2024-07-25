@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cca88d54.css",
+    "main.js": "/static/js/main.a09ad348.js",
+    "static/js/453.00a81ccd.chunk.js": "/static/js/453.00a81ccd.chunk.js",
+    "static/media/school_tour.mp4": "/static/media/school_tour.de06544fba208f8cb9fe.mp4",
+    "static/media/annual_function.mp4": "/static/media/annual_function.b2316030691b9e938b67.mp4",
+    "static/media/classroom.jpg": "/static/media/classroom.193fa971d78f358993e7.jpg",
+    "static/media/science_exhibition.jpg": "/static/media/science_exhibition.34a927e2405962ca1cbc.jpg",
+    "static/media/library.jpg": "/static/media/library.84dfeda29e20b1cea178.jpg",
+    "static/media/cultural_fest.jpg": "/static/media/cultural_fest.5440e342c144dce663d7.jpg",
+    "static/media/sports_day.jpg": "/static/media/sports_day.7bf97da807f7041a48ae.jpg",
+    "static/media/logo.png": "/static/media/logo.0ee542afe13c75f66f94.png",
+    "index.html": "/index.html",
+    "main.cca88d54.css.map": "/static/css/main.cca88d54.css.map",
+    "main.a09ad348.js.map": "/static/js/main.a09ad348.js.map",
+    "453.00a81ccd.chunk.js.map": "/static/js/453.00a81ccd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cca88d54.css",
+    "static/js/main.a09ad348.js"
+  ]
+}
